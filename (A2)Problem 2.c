@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <math.h>
+#define M_PI 3.1416
 
 int main() {
     double theta = 45.0;  // Angle in degrees
