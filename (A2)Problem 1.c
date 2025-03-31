@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include<math.h>
-#define M_PI 3.1416
+
 int calculate_order(double wavelength, double theta, double d) {
     double wavelength_m = wavelength * 1e-9; 
     double d_m = d * 1e-6; 
